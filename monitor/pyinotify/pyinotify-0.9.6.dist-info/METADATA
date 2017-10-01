@@ -1,0 +1,36 @@
+Metadata-Version: 2.0
+Name: pyinotify
+Version: 0.9.6
+Summary: Linux filesystem events monitoring
+Home-page: http://github.com/seb-m/pyinotify
+Author: Sebastien Martini
+Author-email: seb@dbzteam.org
+License: MIT License
+Download-URL: http://pypi.python.org/pypi/pyinotify
+Platform: Linux
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.4
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: System :: Filesystems
+Classifier: Topic :: System :: Monitoring
+
+UNKNOWN
+
+

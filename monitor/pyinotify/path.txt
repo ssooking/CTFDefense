@@ -1,0 +1,1 @@
+sudo cp -r * /usr/lib/pythonXXX/site-packages
