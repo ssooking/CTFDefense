@@ -7,7 +7,7 @@ Some tools for CTF off line
 ### 1.ctf-firewall.sh
     iptables配置命令，可一键执行快速配置。使用时可能需要根据环境略微修改
 	
-### 2.commannd.md
+### 2.command.md
 	一些线下赛中常用的linux操作命令
 
 ### 3.getRoot
